@@ -1,0 +1,28 @@
+{
+	"bold_folder_labels": true,
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		".svn",
+		".vagrant"
+	],
+	"font_face": "Consolas",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": false,
+	"status_bar_brighter": true,
+	"tab_size": 4,
+	"tabs_medium": true,
+	"theme": "Afterglow-orange.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
