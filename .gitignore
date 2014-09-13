@@ -1,3 +1,4 @@
 *.cache
 *.last-run
+*.tmTheme
 codeivate-st.sublime-settings
