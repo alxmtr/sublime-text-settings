@@ -2,13 +2,11 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"Better CoffeeScript",
 		"Blade Snippets",
 		"BracketHighlighter",
 		"Codeivate",
 		"Emmet",
 		"HTML5",
-		"Jade",
 		"Laravel Blade Highlighter",
 		"Predawn"
 	]
