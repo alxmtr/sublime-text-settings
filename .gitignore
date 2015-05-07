@@ -1,4 +1,7 @@
 *.cache
 *.last-run
+*.merged-ca-bundle
+*.system-ca-bundle
+*.user-ca-bundle
 *.tmTheme
 codeivate-st.sublime-settings

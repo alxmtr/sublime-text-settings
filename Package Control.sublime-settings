@@ -1,6 +1,10 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"All Autocomplete",
 		"Blade Snippets",
 		"BracketHighlighter",
@@ -8,6 +12,7 @@
 		"Emmet",
 		"HTML5",
 		"Laravel Blade Highlighter",
-		"Predawn"
+		"Package Control",
+		"Theme - DC"
 	]
 }

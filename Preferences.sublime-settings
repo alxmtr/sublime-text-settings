@@ -4,13 +4,16 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
 	"copy_with_empty_selection": false,
+	"dc_use_group_icon3": true,
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
+	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
+		".idea",
 		".git",
 		".sass-cache",
 		".svn",
@@ -21,13 +24,15 @@
 	[
 		"no_round"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"match_brackets_angle": false,
 	"match_brackets_content": false,
 	"match_selection": false,
@@ -36,13 +41,12 @@
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
 	"scroll_past_end": true,
-	"scroll_speed": 5.0,
+	"scroll_speed": 4.0,
 	"show_full_path": false,
 	"sidebar_default": true,
 	"status_bar_brighter": true,
 	"tab_size": 4,
-	"tabs_medium": true,
-	"theme": "predawn.sublime-theme",
+	"theme": "DC_3_GW.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,

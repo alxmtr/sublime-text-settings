@@ -4,6 +4,7 @@ These are the settings I use for [Sublime Text 3](http://www.sublimetext.com/).
 
 ##Packages
 
+- 1337 Color Scheme
 - All Autocomplete
 - Blade Snippets
 - BracketHighlighter
@@ -11,4 +12,5 @@ These are the settings I use for [Sublime Text 3](http://www.sublimetext.com/).
 - Emmet
 - HTML5
 - Laravel Blade Highlighter
-- Predawn
+- Package Control
+- Theme - DC
