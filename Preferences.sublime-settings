@@ -1,12 +1,14 @@
 {
+	"Seti_blue_label": true,
+	"Seti_bold_slctdtab_labels": true,
+	"Seti_tabs_med": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Dark-Dracula.tmTheme",
 	"copy_with_empty_selection": false,
-	"dc_use_group_icon3": true,
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
@@ -24,7 +26,7 @@
 	[
 		"no_round"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -33,10 +35,6 @@
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-	"match_brackets_angle": false,
-	"match_brackets_content": false,
-	"match_selection": false,
-	"match_tags": false,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
@@ -46,9 +44,9 @@
 	"sidebar_default": true,
 	"status_bar_brighter": true,
 	"tab_size": 4,
-	"theme": "DC_3_GW.sublime-theme",
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"wrap_width": 85
+	"word_wrap": false,
+	"wrap_width": 80
 }
