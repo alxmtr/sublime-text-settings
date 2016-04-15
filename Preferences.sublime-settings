@@ -7,7 +7,7 @@
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Dark-Dracula.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"draw_minimap_border": true,
@@ -38,6 +38,10 @@
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
+	"rulers":
+	[
+		80
+	],
 	"scroll_past_end": true,
 	"scroll_speed": 4.0,
 	"show_full_path": false,
@@ -46,7 +50,7 @@
 	"tab_size": 4,
 	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"word_wrap": false,
 	"wrap_width": 80
 }

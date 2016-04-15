@@ -7,11 +7,14 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
-		"Colorsublime",
 		"Emmet",
 		"HTML5",
+		"Jade",
 		"Laravel Blade Highlighter",
+		"Material Theme",
 		"Package Control",
+		"Sass",
+		"SCSS",
 		"Seti_UI"
 	]
 }

@@ -6,9 +6,12 @@ These are the settings I use for [Sublime Text 3](http://www.sublimetext.com/).
 
 - All Autocomplete
 - BracketHighlighter
-- Colorsublime
 - Emmet
 - HTML5
+- Jade
 - Laravel Blade Highlighter
+- Material Theme
 - Package Control
-- Seti UI
+- Sass
+- SCSS
+- Seti_UI
