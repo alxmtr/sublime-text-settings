@@ -12,6 +12,7 @@ These are the settings I use for [Sublime Text 3](http://www.sublimetext.com/).
 - Laravel Blade Highlighter
 - Material Theme
 - Package Control
+- PHP-Twig
 - Sass
 - SCSS
-- Seti_UI
+- Seti_U
