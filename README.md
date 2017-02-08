@@ -16,3 +16,4 @@ These are the settings I use for [Sublime Text 3](http://www.sublimetext.com/).
 - Sass
 - SCSS
 - Seti_U
+- Vue Syntax Highlight

@@ -14,8 +14,10 @@
 		"Material Theme",
 		"Package Control",
 		"PHP-Twig",
+		"Pug",
 		"Sass",
 		"SCSS",
-		"Seti_UI"
+		"Seti_UI",
+		"Vue Syntax Highlight"
 	]
 }
